@@ -1,16 +1,14 @@
-### Hi there 👋
+Intro 👋
+I'm Fayaz Karim - a Senior Full Stack Javascript developer from Hunza Valley in Northern Pakistan. I've been in Software Development for the last 5 years and I have extensive knowledge of both Javascript and PHP frameworks. I have 3+ years of experience in React, 3+ years of experience with Laravel, 2 years in Vue js, and 3+ years in Node JS. I spend my last 5 years of full-time learning and working on different technologies
 
-<!--
-**Fayyazdero/Fayyazdero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Programming and markup languages
+Bash JavaScript Markdown SQL TypeScript
 
-Here are some ideas to get you started:
+🧰 Frameworks and libraries
+Node.js Express.js GitHub Actions React Vue.js Nuxt.js Next.js Gatsby NestJS GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗄️ Databases and cloud hosting
+GitHub Pages Heroku MongoDB Netlify PostgreSQL SQLite Vercel
+
+💻 Software and tools
+Codepen Docker Git Notepadplusplus Postman Selenium Ubuntu
